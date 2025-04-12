@@ -22,7 +22,7 @@
   "author": "Ogunbanjo peter",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/peroskyX/jobberShared.git"
+    "url": "git+https://github.com/peroskyX/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
